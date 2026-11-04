@@ -10,6 +10,7 @@ deteriorated, which improves ER capacity logistics and treatment.
 
 - [Architecture and State-Machine Specification](docs/SPECIFICATION.md)
 - [System Modeling](docs/SYSTEM_MODELING.md)
+- [Project Presentation (Hebrew)](docs/Triage_Guard_Presentation.pdf)
 
 ### Run all services at once
 
